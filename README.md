@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Encode Solidity Bootcamp 2023 Week 2
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+1) Showcasing deploying on Hardhat fake blockchain with fake signers wallets
+2) Deploying with Ethers on Sepolia
+3) Transacting and querying the blockchain
